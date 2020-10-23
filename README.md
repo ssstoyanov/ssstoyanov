@@ -6,4 +6,4 @@ My name is Stanislav and I'm mostly a backend developer with a two-year of exper
 - 🤔 I’m looking for help with Scala
 - 💬 Ask me about Java
 - 📫 How to reach me: [telegram](https://t.me/slowslav) or [mail me](mailto:stanis.stoyanov@outlook.com)
-- 🎤 I'm speak in 🇷🇺 Russian (native), 🇬🇧 English and slightly 🇩🇪 Deutsch 
+- 🎤 I speak in 🇷🇺 Russian (native), 🇬🇧 English and slightly 🇩🇪 Deutsch 
