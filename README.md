@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Stanislav
 
-My name is Stanislav and I'm mostly a backend developer with a two-year of experience in the industry.
-
 - 🇷🇺 I live in Russia, Nijniy Novgorod
+- 🔭 I’m currently working in [Orion Inc](https://www.orioninc.com/) 
 - 🌱 I’m currently learning Java, Spring Framework and Scala by myself
 - 🎓 I’m currently obtaining a bachelor degree in [HSE FCS](https://nnov.hse.ru/en/ba/se/)
 - 🤔 I’m looking for help with Scala
