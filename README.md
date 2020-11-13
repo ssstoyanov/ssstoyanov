@@ -23,8 +23,7 @@
 
 ## 🤝 Connect with me
 
-[![stanis.stoyanov@gmail.com](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanis.stoyanov@gmail.com)
-
+[![gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanis.stoyanov@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssstoyanov/) 
-
 [![telegram](https://img.shields.io/badge/telegram%20-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/slowslav) 
+[![outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:ssstoyanov@edu.hse.ru)
