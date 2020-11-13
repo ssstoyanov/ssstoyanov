@@ -9,6 +9,14 @@
 
 ## 🛠 Tech Stack
 
+![java](https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=orange)
+![mongodb](https://img.shields.io/badge/mongodb%20-%23CC0000.svg?&style=for-the-badge&logo=mongodb&logoColor=success) 
+![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
+![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
+![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![IDEA](https://img.shields.io/badge/idea-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ## 🤝 Connect with me
 
