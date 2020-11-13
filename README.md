@@ -13,10 +13,11 @@
 ![spring](https://img.shields.io/badge/Spring-light?style=for-the-badge&logo=spring&logoColor=white)
 ![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
 ![gradle](https://img.shields.io/badge/Gradle-%232496ED.svg?style=for-the-badge&logo=gradle)
-![mongodb](https://img.shields.io/badge/mongodb%20-%23CC0000.svg?&style=for-the-badge&logo=mongodb&logoColor=success) 
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
-![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![mongodb](https://img.shields.io/badge/mongodb%20-%23CC0000.svg?&style=for-the-badge&logo=mongodb&logoColor=success) 
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![IDEA](https://img.shields.io/badge/idea-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 
