@@ -11,7 +11,6 @@
 
 ![java](https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=orange)
 ![spring](https://img.shields.io/badge/Spring-light?style=for-the-badge&logo=spring&logoColor=white)
-![spring boot](https://img.shields.io/badge/Springboot-light?style=for-the-badge&logo=spring-boot)
 ![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
 ![gradle](https://img.shields.io/badge/Gradle-%232496ED.svg?style=for-the-badge&logo=gradle)
 ![mongodb](https://img.shields.io/badge/mongodb%20-%23CC0000.svg?&style=for-the-badge&logo=mongodb&logoColor=success) 
