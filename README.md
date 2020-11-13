@@ -8,15 +8,16 @@
 
 ## 🛠 Tech Stack
 
-![java](https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=orange)
-![spring](https://img.shields.io/badge/Spring-light?style=for-the-badge&logo=spring&logoColor=white)
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
 ![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
 ![gradle](https://img.shields.io/badge/Gradle-%232496ED.svg?style=for-the-badge&logo=gradle)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![mongodb](https://img.shields.io/badge/mongodb%20-%23CC0000.svg?&style=for-the-badge&logo=mongodb&logoColor=success) 
+![sql](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql)
+![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![IDEA](https://img.shields.io/badge/idea-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -24,6 +25,7 @@
 ## 🤝 Connect with me
 
 [![gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanis.stoyanov@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssstoyanov/) 
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssstoyanov) 
 [![telegram](https://img.shields.io/badge/telegram%20-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/slowslav) 
 [![outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:ssstoyanov@edu.hse.ru)
+[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/9slowslav)
