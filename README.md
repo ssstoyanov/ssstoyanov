@@ -12,7 +12,7 @@
 ![spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
 ![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
-![gradle](https://img.shields.io/badge/Gradle-%232496ED.svg?style=for-the-badge&logo=gradle)
+![gradle](https://img.shields.io/badge/gradle%20-%2314354C.svg?style=for-the-badge&logo=gradle)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 ![sql](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql)
