@@ -25,7 +25,9 @@
 ![python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![shell](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![gitlab](https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![IDEA](https://img.shields.io/badge/idea-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+![linux](https://img.shields.io/badge/linux-000000?logo=linux&logoColor=white&style=for-the-badge&logoColor=white)
 
 
 ## 🤝 Connect with me
