@@ -8,12 +8,12 @@
 
 ## 🛠 Tech Stack
 
-![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/java-%23FFFFFF.svg?&style=for-the-badge&logo=java&logoColor=red)
 ![hibernate](https://img.shields.io/badge/hibernate-%23BFAF7E.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
 ![spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
-![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
 ![gradle](https://img.shields.io/badge/gradle%20-%2314354C.svg?style=for-the-badge&logo=gradle)
+![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
