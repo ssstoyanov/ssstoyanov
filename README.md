@@ -9,6 +9,7 @@
 ## 🛠 Tech Stack
 
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![hibernate](https://img.shields.io/badge/hibernate-%23BFAF7E.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
 ![spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
 ![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
