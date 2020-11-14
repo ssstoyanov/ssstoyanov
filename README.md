@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Stanislav
 
 - 🇷🇺 I live in Russia, Nijniy Novgorod -> will moving to Moldova 🇲🇩
+- 🔭 I’m currently working in [Orion Inc](https://www.orioninc.com/) 
 - 🌱 Most of the time I'm writing on Java
 - 🎓 I’m currently obtaining a bachelor degree in [HSE Faculty of Computer Science](https://nnov.hse.ru/en/ba/se/)
 - 🤔 I’m looking for help with Scala
