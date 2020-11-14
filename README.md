@@ -22,6 +22,8 @@
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
+![python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![shell](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![IDEA](https://img.shields.io/badge/idea-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 
