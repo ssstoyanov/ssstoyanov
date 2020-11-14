@@ -2,12 +2,12 @@
 
 - 🇷🇺 I live in Russia, Nijniy Novgorod -> will moving to Moldova 🇲🇩
 - 🔭 I’m currently working in [Orion Inc](https://www.orioninc.com/) 
-- 🌱 Most of the time I'm writing on Java
+- 🌱 Most of the time I'm writing on Java. Sometimes Python and Shell, when I need to
 - 🎓 I’m currently obtaining a bachelor degree in [HSE Faculty of Computer Science](https://nnov.hse.ru/en/ba/se/)
 - 🤔 I’m looking for help with Scala
 - 🎤 I speak in 🇷🇺 Russian (native), 🇬🇧 English and slightly 🇩🇪 Deutsch 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (fance badge area 🤪)
 
 ![java](https://img.shields.io/badge/java-%23FFFFFF.svg?&style=for-the-badge&logo=java&logoColor=red)
 ![hibernate](https://img.shields.io/badge/hibernate-%23BFAF7E.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
