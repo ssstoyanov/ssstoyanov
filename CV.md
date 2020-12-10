@@ -8,8 +8,8 @@
 
 ## 🏢 Experience
 
-**Java Developer @ Orion Innovation** —— Nizhny Novgorod, Russia\
-Jule 2020 —— Present
+**Java Developer @ Orion Innovation** — Nizhny Novgorod, Russia\
+Jule 2020 — Present
 
 Developing and maintaining enterprise solutions
 
@@ -20,7 +20,7 @@ Developing and maintaining enterprise solutions
 
 ## 🎓 Education
 
-**National Research University - Higher School of Economics**\
+**National Research University — Higher School of Economics**\
 Bachelor's degree
 
 -
