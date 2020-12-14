@@ -16,5 +16,3 @@
 ## 🤝 Connect with me
 
 [![gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanis.stoyanov@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssstoyanov) [![telegram](https://img.shields.io/badge/telegram%20-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/slowslav) 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssstoyanov" alt="gargakshit" /> </p>
