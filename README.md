@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Scala
 - 🎤 I speak in 🇷🇺 Russian (native), 🇬🇧 English and slightly 🇩🇪 Deutsch 
 
-#### My CV: [Stanislav Stoianov](https://docs.google.com/document/d/19opV6X_y5HsugN78pOmRj0tkRgzZYcEVsXNlT45ER8k/edit)
+#### My CV: [Stanislav Stoianov](https://rebrand.ly/googledocs2b92f)
 
 ## 🛠 Tech Stack (fance badge area 🤪)
 
