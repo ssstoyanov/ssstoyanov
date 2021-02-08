@@ -2,11 +2,12 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🇷🇺 I live in Russia, Nijniy Novgorod
-- 🔭 I’m currently working in [STM-Labs](http://stm-labs.ru/) as Java Developer
+- 🇲🇩 I'm from Republic of Moldova 
+- 🇷🇺 Currently I live in [Russia, Nijniy Novgorod](https://maps.app.goo.gl/kBRjR6b1LLhCRZNT6)
+- 🔭 Now I’m working in [STM-Labs](http://stm-labs.ru/) as Java Developer
 - 🌱 Most of the time I'm writing on Java. Sometimes Python and Shell, when I need to
-- 🎓 I’m currently obtaining a bachelor degree in [HSE Faculty of Computer Science](https://nnov.hse.ru/en/ba/se/)
-- 🎤 I speak in 🇷🇺 Russian (native), 🇬🇧 English and slightly 🇩🇪 Deutsch 
+- 🎓 I’m obtaining a bachelor degree in [HSE Faculty of Computer Science](https://nnov.hse.ru/en/ba/se/)
+- 🎤 I speak in 🇷🇺 Russian (native), 🇬🇧 English and I'm learning 🇩🇪 Deutsch 
 
 #### My CV: [Stanislav Stoianov](http://rebrand.ly/ssstoyanov)
 
