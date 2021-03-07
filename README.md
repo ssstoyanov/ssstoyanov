@@ -2,7 +2,7 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🇲🇩 I'm from Republic of Moldova 
+- 🇲🇩 I'm from [Republic of Moldova](https://goo.gl/maps/GDmuWMEj7wGefoTD8) 
 - 🇷🇺 Currently I live in [Russia, Nijniy Novgorod](https://maps.app.goo.gl/kBRjR6b1LLhCRZNT6)
 - 🔭 Now I’m working in [STM-Labs](http://stm-labs.ru/) as Java Developer
 - 🌱 Most of the time I'm writing on Java. Sometimes Python and Shell, when I need to
